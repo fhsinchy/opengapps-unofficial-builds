@@ -30,3 +30,5 @@ If you need package of a different variant or architecture, let me know and I'll
 
 * Latest ARM build - https://goo.gl/v5SAQY
 * Latest ARM64 build - https://goo.gl/mrUzFa
+
+**Star** and **Follow** this repo in order to stay updated.
