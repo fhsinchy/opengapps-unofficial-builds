@@ -29,4 +29,4 @@ If you need package of a different variant or architecture, let me know and I'll
 # Downloads
 
 * Latest ARM build - https://goo.gl/v5SAQY
-* Latest ARM64 build -
+* Latest ARM64 build - https://goo.gl/mrUzFa
