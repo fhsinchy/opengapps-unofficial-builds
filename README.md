@@ -1,4 +1,4 @@
-# [oreo-8.1]OpenGApps Unofficial Builds [arm|arm64]
+# [oreo-8.1] OpenGApps Unofficial Builds [arm|arm64]
 
 [![OpenGApps](https://github.com/farhanhasinc/opengapps-unofficial-builds/raw/d37ac1860d9486dccd0f9b033077b2f0f8772945/opengapps-banner.png)](https://github.com/opengapps/opengapps)
 
