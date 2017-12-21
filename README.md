@@ -1,10 +1,10 @@
 # [oreo-8.1]OpenGApps Unofficial Builds [arm|arm64]
 
-[![OpenGApps](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/opengapps/opengapps)
+[![OpenGApps](https://github.com/farhanhasinc/opengapps-unofficial-builds/raw/d37ac1860d9486dccd0f9b033077b2f0f8772945/opengapps-banner.png)](https://github.com/opengapps/opengapps)
 
 After installing **Android Oreo [8.1]** on my **OnePlus X**,  I realized that OpenGapps has not yet released any GAPPS packages for 8.1. Their latest official build is for 8.0
 
-[![OpenGApps](https://cldup.com/dTxpPi9lDf.thumb.png)](http://opengapps.org/)
+[![OpenGApps](https://github.com/farhanhasinc/opengapps-unofficial-builds/raw/d37ac1860d9486dccd0f9b033077b2f0f8772945/opengapps-downloads.PNG)](http://opengapps.org/)
 
 This is screenshot was taken on **22nd December 2017** and there was no GAPPS package for 8.1 thus **THIS REPO WAS BORN**.
 
