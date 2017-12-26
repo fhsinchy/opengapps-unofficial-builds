@@ -12,23 +12,25 @@ I won't get time to build packages everyday but I'll update those package every 
 
 # Unofficial builds to the rescue!
 
-Of course these packages are not as stable as the official builds but in the absence of official packages these will get the job done. My builds are available in **4 variants** which are -
+Of course these packages are not as stable as the official builds but in the absence of official packages these will get the job done and can be installed on any android smartphone running **Android Oreo [8.1]**. My builds are available in **4 variants** which are -
 
 1. pico
 1. nano
 1. micro
 1. mini
+1. stock [arm only][on request]
+1. aroma [arm only][on request]
 
 I haven't built any other variant because I don't know why would someone waste that much space by installing apps which are hardly used. I have built for **2 architectures** which are
 
-1. arm
-1. arm64
+1. arm [build 2017-12-27]
+1. arm64 [build 2017-12-22]
 
 If you need package of a different variant or architecture, let me know and I'll build one for you.
 
 # Downloads
 
-* Latest ARM build - https://goo.gl/v5SAQY
-* Latest ARM64 build - https://goo.gl/mrUzFa
+* All ARM builds - https://goo.gl/v5SAQY
+* All ARM64 builds - https://goo.gl/mrUzFa
 
 **Star** and **Follow** this repo in order to stay updated.
