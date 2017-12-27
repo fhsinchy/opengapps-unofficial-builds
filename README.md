@@ -18,13 +18,13 @@ Of course these packages are not as stable as the official builds but in the abs
 1. nano
 1. micro
 1. mini
-1. stock [arm only][on request]
-1. aroma [arm only][on request]
+1. stock [on request]
+1. aroma [on request]
 
 I haven't built any other variant because I don't know why would someone waste that much space by installing apps which are hardly used. I have built for **2 architectures** which are
 
 1. arm [build 2017-12-27]
-1. arm64 [build 2017-12-22]
+1. arm64 [build 2017-12-28]
 
 If you need package of a different variant or architecture, let me know and I'll build one for you.
 
