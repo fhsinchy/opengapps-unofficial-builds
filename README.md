@@ -32,5 +32,6 @@ If you need package of a different variant or architecture, let me know and I'll
 
 * All ARM builds - https://goo.gl/v5SAQY
 * All ARM64 builds - https://goo.gl/mrUzFa
+* XDA Thread - https://forum.xda-developers.com/oneplus-x/general/oreo-8-1-opengapps-unofficial-builds-t3723022
 
 **Star** and **Follow** this repo in order to stay updated.
