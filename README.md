@@ -23,8 +23,8 @@ Of course these packages are not as stable as the official builds but in the abs
 
 I haven't built any other variant because I don't know why would someone waste that much space by installing apps which are hardly used. I have built for **2 architectures** which are
 
-1. arm [build 2017-12-27]
-1. arm64 [build 2017-12-28]
+1. arm [build 2018-01-05]
+1. arm64 [build 2018-01-05]
 
 If you need package of a different variant or architecture, let me know and I'll build one for you.
 
